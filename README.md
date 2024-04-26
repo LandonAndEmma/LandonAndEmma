@@ -7,4 +7,4 @@
 - 📝 I use Pycharm and Visual Studio Code as my IDE.
 - 🏫 I'm currently a Junior in High-School
 - ❌ I’m not looking to collaborate right now.
-- 📶 My website: https://landonperkinsprosser.github.io/landonsoft-website/
+- 📶 My website: https://LandonAndEmma.github.io/landonsoft-website/
