@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1>Hi, I’m @LandonAndEmma!</h1>
+    <h1>Hi, I’m Landon Perkins or my alias: LandonAndEmma!</h1>
     <div>I want to become a master ROM hacker, and video game creator, just like Ermelber and Notch. I’m also interested in coding and the DS to Wii U era of Nintendo. I’m also currently learning C#. I also use Pycharm and Visual Studio Community 2022 as my IDE. I'm currently a Senior in High-School. Check out <a href="https://landonsoft.vercel.app/">my website</a>! </div>
     <br>
     <div align="center">
