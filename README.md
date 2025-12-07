@@ -8,7 +8,7 @@
       Check out <a href="https://landonsoft.vercel.app/">my website</a>!
     </div>
     <br>
-    <img src="https://githubcard.com/LandonAndEmma.svg?d=vjyntRcU" alt="My GitHub Card"/>
+    <img src="https://githubcard.com/g/vjyntRcU.svg" alt="My GitHub Card"/>
     <br>
   </div>
 </body>
