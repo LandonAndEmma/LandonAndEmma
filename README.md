@@ -4,7 +4,7 @@
     <div>
       I want to become a master ROM hacker, and video game creator, just like Ermelber and Notch.<br>
       I’m also interested in coding and the DS to Wii U era of Nintendo. I’m also currently learning C#. <br>
-      I also use Pycharm and Visual Studio Community 2022 as my IDE. I'm currently in college! <br>
+      I also use PyCharm, IntelliJ IDEA, and Visual Studio Community 2026 as my IDE. I'm currently in college! <br>
       Check out <a href="https://landonsoft.vercel.app/">my website</a>!
     </div>
     <br>
