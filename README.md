@@ -1,14 +1,22 @@
-<body>
-  <div align="center">
-    <h1>Hi, I’m Landon Perkins or my alias: LandonAndEmma!</h1>
-    <div>
-      I want to become a master ROM hacker, and video game creator, just like Ermelber and Notch.<br>
-      I’m also interested in coding and the DS to Wii U era of Nintendo. I’m also currently learning C#. <br>
-      I also use PyCharm, IntelliJ IDEA, and Visual Studio Community 2026 as my IDE. I'm currently in college! <br>
-      Check out <a href="https://landonsoft.vercel.app/">my website</a>!
-    </div>
-    <br>
-    <img src="https://githubcard.com/g/vjyntRcU.svg" alt="My GitHub Card"/>
-    <br>
-  </div>
-</body>
+# Hi, I’m Landon Perkins — aka **LandonAndEmma**!
+
+### About Me
+
+I'm passionate about game creation and ROM hacking, inspired by developers like **Ermelber** and **Notch**.  
+My primary interests lie in coding and Nintendo's DS-to-Wii U era.
+
+---
+
+### Tech & Tools
+- **Currently learning:** C#
+- **Development environments:** PyCharm, IntelliJ IDEA, Visual Studio Community
+- **Currently:** Studying in college
+
+### [**Visit my website**](https://landonsoft.vercel.app/)
+
+---
+
+### GitHub Stats
+
+[![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LandonAndEmma&theme=ambient_gradient&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LandonAndEmma&theme=ambient_gradient&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
