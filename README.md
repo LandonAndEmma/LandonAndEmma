@@ -18,5 +18,5 @@ My primary interests lie in coding and Nintendo's DS-to-Wii U era.
 
 ### GitHub Stats
 
-[![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LandonAndEmma&theme=ambient_gradient&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LandonAndEmma&theme=ambient_gradient&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Landon's GitHub stats](https://github-readme-stats-sage-rho-12.vercel.app/api?username=LandonAndEmma&theme=ambient_gradient&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sage-rho-12.vercel.app/api/top-langs/?username=LandonAndEmma&theme=ambient_gradient&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
