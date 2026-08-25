@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm passionate about game creation and ROM hacking, inspired by developers like **Ermelber** and **Notch**.  
+I'm passionate about game creation, ROM hacking, and reverse engineering.
 My primary interests lie in coding and Nintendo's DS-to-Wii U era.
 
 ### [**Visit my website**](https://nitroshellmkds.github.io/NitroSoft/)
